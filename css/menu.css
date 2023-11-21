@@ -45,6 +45,7 @@
     background-color:#FFFFFF;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
+    z-index: 2;
     display: none !important;
 }
 
@@ -57,7 +58,6 @@
 .site-menu .pages{
     height: 360px !important;
     width: 230px !important;
-    border: 1px solid green;
     position: relative;
     overflow: auto;
     overflow-x: hidden;
@@ -84,14 +84,6 @@
     top: 14px;
     right: 24px
 }
-.site-menu .pages .jadid-tarin button{
-    border: 1px solid red;
-    width: 20px;
-    height: 20px;
-    margin-right: 160px;
-    margin-top: 5px;
-}
-
 
 .site-menu .pages .jadid-tarin:hover a {
     color: #009657;
@@ -517,15 +509,14 @@
 .content{
     margin-right: 0px;
     position: absolute;
-    width: 1100px !important;
+    width: 1180px !important;
     height: 358px !important;
     overflow: auto;
     overflow-x: hidden;
 }
 .content-jadidtarin{
     position: relative;
-    border: 1px solid red;
-    width: 1100px !important;
+    width: 1200px !important;
     height: 358px !important;
 }
 
@@ -609,11 +600,4 @@
 .content .content-jadidtarin a:hover{
     color: #009657 !important;
     scale: 1.01 1.01;
-}
-.content .content-jadidtarin{
-    border: 1px solid green !important;
-}
-
-.jadid-tarin:hover + .content-jadidtarin{
-    border: 1px solid red !important;
 }
