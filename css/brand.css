@@ -1,0 +1,34 @@
+.brand{
+    width: 100%;
+    height: 200px;
+    background-color: #F9F9F9;
+}
+  .swiper-brand{
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide{
+    text-align: center;
+    font-size: 18px;
+    background: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide-brand  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .swiper-button-next-brand .swiper-button-next{
+    background-color: #F9F9F9;
+  }
+  .swiper-button-prev-brand .swiper-button-prev{
+    background-color: #F9F9F9;
+  }
+  .brandlogo{
+    width: 130px;
+  }

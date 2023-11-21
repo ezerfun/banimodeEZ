@@ -1,0 +1,28 @@
+.atr-giftcard{
+    height: 220px;
+    width: 100%;
+
+    position: relative;
+    top: 200px;
+}
+.atr-giftcard .center3{
+    height: 220px;
+    width: calc(100% - 170px);
+    margin: 0 auto;
+
+}
+.atr-giftcard .center3 a img{
+    margin-right: 60px;
+    border-radius: 25px;
+    transition: 300ms;
+}
+.atr-giftcard .center3 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.gray-line{
+    width: 100%;
+    height: 20px;
+    background-color: #F5F5F5;
+    margin-top: 200px;
+}

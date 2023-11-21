@@ -1,0 +1,619 @@
+.bbh .mod-fashion a{
+    right: 300px;
+}
+.bbh .khane-mod a{
+    right: 380px;
+}
+.bbh .zibaii-salamat a{
+    right: 450px;
+}
+.bbh .saat  a{
+    right: 560px;
+}
+.bbh .kid-toyz a{
+    right: 620px;
+}
+.bbh .kaka-sport a{
+    right: 690px;
+}
+.bbh .atr-odkolon a{
+    right: 780px;
+}
+.bbh .brands a{
+    right: 870px;
+}
+.bbh .kart-hedie a{
+    right: 950px;
+}
+.bbh .fooroosh-vizhe a{
+    right: 1030px;
+}
+.bbh .bold:hover{
+    text-decoration: underline;
+    color: #009657;
+}
+.bbh .bold {
+    position: relative;
+    top:0px;
+}
+.site-menu{
+    position: absolute;
+    border: 1px solid #F1F2F2;
+    top: 45px;
+    width: 1400px !important;
+    height: 360px !important;
+    background-color:#FFFFFF;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    display: none !important;
+}
+
+.bbh .bold:hover + .site-menu{
+    display: block !important;
+}
+.site-menu:hover{
+    display: block !important;
+}
+.site-menu .pages{
+    height: 360px !important;
+    width: 230px !important;
+    border: 1px solid green;
+    position: relative;
+    overflow: auto;
+    overflow-x: hidden;
+    border-bottom-right-radius: 15px;
+}
+
+.site-menu .pages .jadid-tarin {
+    border: 1px solid #F1F2F2;
+    width: 200px;
+    height: 34px;
+    position: absolute;
+    background-color: #F1F2F2;
+}
+.site-menu .pages .jadid-tarin a{
+    font-family: yekan;
+    font-size: 18px;
+    color: black;
+    margin-right: 30px;
+}
+.site-menu .pages .jadid-tarin i{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 14px;
+    right: 24px
+}
+.site-menu .pages .jadid-tarin button{
+    border: 1px solid red;
+    width: 20px;
+    height: 20px;
+    margin-right: 160px;
+    margin-top: 5px;
+}
+
+
+.site-menu .pages .jadid-tarin:hover a {
+    color: #009657;
+}
+.site-menu .pages .jadid-tarin:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .jadid-tarin:hover i {
+    color: #009657;
+}
+.site-menu .pages .khane-mod{
+    border:1px solid #F1F2F2;
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    background-color:#F1F2F2;
+    top: 42px;
+}
+.site-menu .pages .khane-mod a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 30px;
+}
+.site-menu .pages .khane-mod i{
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+.site-menu .pages .khane-mod a:hover {
+    color: #009657;
+}
+.site-menu .pages .khane-mod:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .khane-mod a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .zanane{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 92px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .zanane a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 30px;
+}
+.site-menu .pages .zanane i{
+    position: absolute;
+    font-size: 20px;
+    top: 15px;
+    right: 22px;
+}
+.site-menu .pages .zanane a:hover {
+    color: #009657;
+}
+.site-menu .pages .zanane:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .zanane a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .mardane{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 142px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .mardane a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 28px;
+}
+.site-menu .pages .mardane i{
+    position: absolute;
+    font-size: 20px;
+    top: 15px;
+    right: 15px;
+}
+.site-menu .pages .mardane a:hover {
+    color: #009657;
+}
+.site-menu .pages .mardane:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .mardane a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .bache-gane{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 192px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .bache-gane a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 28px;
+}
+.site-menu .pages .bache-gane i{
+    position: absolute;
+    font-size: 20px;
+    top: 15px;
+    right: 18px;
+}
+.site-menu .pages .bache-gane a:hover {
+    color: #009657;
+}
+.site-menu .pages .bache-gane:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .bache-gane a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .teenage{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 242px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .teenage a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 28px;
+}
+.site-menu .pages .teenage i{
+    position: absolute;
+    font-size: 20px;
+    top: 15px;
+    right: 14px;
+}
+.site-menu .pages .teenage a:hover {
+    color: #009657;
+}
+.site-menu .pages .teenage:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .teenage a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .sport{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 292px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .sport a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 28px;
+}
+.site-menu .pages .sport i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .sport a:hover {
+    color: #009657;
+}
+.site-menu .pages .sport:hover{
+    border: 1px solid #009657;
+}
+
+.site-menu .pages .sport a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .watch{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 342px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .watch a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 60px;
+    right: 28px;
+}
+.site-menu .pages .watch i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .watch a:hover {
+    color: #009657;
+}
+.site-menu .pages .watch:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .watch a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .arayeshi{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 392px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .arayeshi a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 14px;
+    width: 100px;
+    right: 28px;
+}
+.site-menu .pages .arayeshi i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .arayeshi a:hover {
+    color: #009657;
+}
+.site-menu .pages .arayeshi:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .arayeshi a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .atr{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 442px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .atr a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 100px;
+    right: 28px;
+}
+.site-menu .pages .atr i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .atr a:hover {
+    color: #009657;
+}
+.site-menu .pages .atr:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .atr a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .lavazem{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 492px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .lavazem a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 100px;
+    right: 28px;
+}
+.site-menu .pages .lavazem i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .lavazem a:hover {
+    color: #009657;
+}
+.site-menu .pages .lavazem:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .lavazem a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .toy{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 542px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .toy a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 100px;
+    right: 28px;
+}
+.site-menu .pages .toy i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .toy a:hover {
+    color: #009657;
+}
+.site-menu .pages .toy:hover{
+    border: 1px solid #009657;
+}
+.site-menu .pages .toy a:hover + i{
+    color: #009657;
+}
+
+.site-menu .pages .honar{
+    border: 1px solid #F1F2F2;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 592px;
+    background-color:#F1F2F2;
+}
+.site-menu .pages .honar a{
+    position: absolute;
+    font-family: yekan;
+    font-size: 18px;
+    width: 100px;
+    right: 28px;
+}
+.site-menu .pages .honar i{
+    position: absolute;
+    font-size: 20px;
+    top: 12px;
+    right: 20px;
+}
+.site-menu .pages .honar a:hover {
+    color: #009657;
+}
+.site-menu .pages .honar:hover{
+    border: 1px solid #009657;;
+}
+.site-menu .pages .honar a:hover + i{
+    color: #009657;
+}
+.mod-fashion a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.khane-mod a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.zibaii-salamat a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.saat a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.kid-toyz a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.kaka-sport a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.atr-odkolon a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.brands a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.kart-hedie a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+.fooroosh-vizhe a:hover{
+    color: #009657 !important;
+    text-decoration: underline !important;
+}
+
+.content{
+    margin-right: 0px;
+    position: absolute;
+    width: 1100px !important;
+    height: 358px !important;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.content-jadidtarin{
+    position: relative;
+    border: 1px solid red;
+    width: 1100px !important;
+    height: 358px !important;
+}
+
+.content .content-jadidtarin h1 [id=cj-1]{
+    font-family: yekan !important;
+    color: black !important;
+    position: relative;
+}
+.content .content-jadidtarin a[id=cj-2]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 30px;
+}
+.content .content-jadidtarin a[id=cj-3]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 60px;
+}
+.content .content-jadidtarin a[id=cj-4]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 90px;
+}
+.content .content-jadidtarin a[id=cj-5]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 120px;
+}
+.content .content-jadidtarin a[id=cj-6]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top:150px;
+}
+.content .content-jadidtarin a[id=cj-7]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 180px;
+}
+.content .content-jadidtarin a[id=cj-8]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top:210px;
+}
+.content .content-jadidtarin a[id=cj-9]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 240px;
+}
+.content .content-jadidtarin a[id=cj-10]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 270px;
+}
+.content .content-jadidtarin a[id=cj-11]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 300px;
+}
+.content .content-jadidtarin a[id=cj-12]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 330px;
+}
+.content .content-jadidtarin a[id=cj-13]{
+    font-family: yekan !important;
+    color: black !important;
+    position: absolute;
+    top: 360px;
+}
+.content .content-jadidtarin a:hover{
+    color: #009657 !important;
+    scale: 1.01 1.01;
+}
+.content .content-jadidtarin{
+    border: 1px solid green !important;
+}
+
+.jadid-tarin:hover + .content-jadidtarin{
+    border: 1px solid red !important;
+}

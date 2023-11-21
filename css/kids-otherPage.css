@@ -1,0 +1,86 @@
+.other-pages{
+    width: 100%;
+    height: 235px;
+    position: relative;
+    top: 170px;
+}
+.other-pages .center2{
+    height: 235px;
+    width: calc(100% - 170px);
+    margin: 0 auto;
+    position: relative;
+
+}
+.right-page{
+    height: 235px;
+    width: 350px;
+
+    position: absolute;
+    right: 80px;
+}
+.middle-page{
+    height: 235px;
+    width: 350px;
+    right: 590px;
+
+    position: absolute;
+}
+.left-page{
+    height: 235px;
+    width: 350px;
+
+    position: absolute;
+    left: 80px;
+}
+.right-page a img{
+    height: 235px;
+    width: 340px;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.right-page a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.middle-page a img{
+    height: 235px;
+    width: 340px;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.middle-page a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.left-page a img{
+    height: 235px;
+    width: 340px;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.left-page a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.right-page2{
+    height: 235px;
+    width: 710px;
+    position: absolute;
+    right: 20px;
+    transition: 300ms;
+}
+.left-page2{
+    height: 235px;
+    width: 710px;
+    position: absolute;
+    left: 20px;
+    transition: 300ms;
+}
+.other-pages .center2 .right-page2:hover {
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.other-pages .center2 .left-page2:hover {
+    scale: 1.01 1.01;
+    transition: 300ms;
+}

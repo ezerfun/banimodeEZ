@@ -1,0 +1,91 @@
+.option{
+    width: 100%;
+    height: 340px;
+
+}
+.option .center{
+    height: inherit;
+    width: calc(100% - 188px );
+    margin: 0 auto;
+    position: relative;
+}
+.option .center .option1{
+    height: 250px;
+    width: 330px;
+    top: 45px;
+    right: 20px;
+    position: absolute;
+    transition: 300ms;
+}
+.option .center .option2{
+    height: 250px;
+    width: 330px;
+    top: 45px;
+    position: absolute;
+    left: 404.5px;
+    transition: 300ms;
+}
+.option .center .option3{
+    height: 250px;
+    width: 330px;
+    top: 45px;
+    position: absolute;
+    left: 20px;
+    transition: 300ms;
+}
+.option .center .option4{
+    height: 250px;
+    width: 330px;
+    top: 45px;
+    position: absolute;
+    left: 784px;
+    transition: 300ms;
+}
+.option .center .option1 img{
+    width: 330px;
+    height: 250px;
+    border-radius: 10px;
+}
+.option .center .option2 img{
+    width: 330px;
+    height: 250px;
+    border-radius: 10px;
+}
+.option .center .option3 img{
+    width: 330px;
+    height: 250px;
+    border-radius: 10px;
+}
+.option .center .option4 img{
+    width: 330px;
+    height: 250px;
+    border-radius: 10px;
+}
+.option .center .option1 img:hover{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px gray;
+    transform: scale(1.05,1.05);
+    transition: 300ms;
+}
+.option .center .option2 img:hover{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px gray;
+    transform: scale(1.05,1.05);
+    transition: 300ms;
+}
+.option .center .option3 img:hover{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px gray;
+    transform: scale(1.05,1.05);
+    transition: 300ms;
+}
+.option .center .option4 img:hover{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 1px 1px 25px gray;
+    transform: scale(1.05,1.05);
+    transition: 300ms;
+}

@@ -1,0 +1,135 @@
+.amazing{
+    width: 100%;
+    height: 670px;
+}
+.amazing .center{
+    width: 1500px;
+    height: inherit;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.swiper-slide{
+    flex-flow: column wrap;
+}
+.swiper-slide .image{
+    width: 100%;
+}
+.swiper-slide .rns{
+    width: 100%;
+    height: 20px;
+    text-align: left;
+    padding: 0 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    direction: ltr;
+}
+.swiper-slide .rns span{
+    font-size: 14px;
+    text-decoration: line-through;
+    font-family: Yekan;
+}
+.swiper-slide .rns .boff{
+    color: gray;
+}
+.swiper-slide .rns .txtRns{
+    text-decoration:unset;
+    position: relative;
+    left: 140px;
+    font-family: yekan;
+    font-size: 20px;
+    font-weight: bold;
+}
+.swiper-slide .rns .off{
+    text-decoration: unset;
+    color: #00BF6F;
+    direction: ltr;
+    position: relative;
+    top: 40px;
+    right:155px;
+}
+.swiper-slide .rns .txtRns2{
+    text-decoration: unset;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 150px;
+
+}
+.swiper-slide .rns .txtRns3{
+    text-decoration: unset;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 170px;
+}
+.swiper-slide .rns .txtRns4{
+    text-decoration: unset;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 190px;
+}
+.swiper-slide .rns .txtRns5{
+    text-decoration: unset;
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+    left: 180px;
+}
+.swiper-slide .rns .txtRns6{
+    text-decoration: unset;
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+    left: 180px;
+}
+.swiper-slide .rns .txtRns7{
+    text-decoration: unset;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 200px;
+}
+.swiper-slide .rns .txtRns8{
+    text-decoration: unset;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 200px;
+}
+.swiper-slide .rns .txtRns9{
+    text-decoration: unset;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    left: 170px;
+}
+.swiper-slide .rns .tozih{
+    text-decoration: unset;
+    font-family: yekan;
+    position: relative;
+    top: 40px;
+    right: 30px;
+    color: gray;
+    font-size: 10px;
+}
+.swiper-slide .rns .tozih3{
+    text-decoration: unset;
+    font-family: yekan;
+    position: relative;
+    top: 40px;
+    right: 0px;
+    color: gray;
+    font-size: 10px;
+}
+.swiper-slide .rns .tozih5{
+    text-decoration: unset;
+    font-family: yekan;
+    position: relative;
+    top: 40px;
+    left: 15px;
+    color: gray;
+    font-size: 10px;
+}

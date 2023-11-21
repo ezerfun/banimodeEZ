@@ -1,0 +1,353 @@
+.topFooter{
+    width: 100%;
+    height:300px;
+}
+.topFooter .center{
+    height: 300px;
+    margin: 0 auto;
+    width: calc(100% - 130px);
+    position: relative;
+}
+.topFooter .center .kharid{
+    width: 230px;
+    height: 280px;
+
+    position: absolute;
+    top: 10px;
+    right: 80px;
+}
+.topFooter .center .khadamat-moshtari{
+    width: 230px;
+    height: 280px;
+
+    position: absolute;
+    top: 10px;
+    right: 280px;
+}
+.topFooter .center .info-baniMode{
+    width: 230px;
+    height: 380px;
+
+    position: absolute;
+    top: 10px;
+    right: 500px;
+}
+.topFooter .center .info{
+    width: 270px;
+    height: 280px;
+
+    position: absolute;
+    top: 10px;
+    right: 740px;
+}
+.topFooter .center .icons{
+    width: 300px;
+    height: 280px;
+
+    position: absolute;
+    top: 10px;
+    left: 130px;
+}
+.topFooter .center .kharid p{
+    font-family: yekan;
+    color:#808080;
+}
+.topFooter .center .kharid h1{
+    font-family: yekan;
+    color:#808080;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 50px;
+    color: black;
+    transition: 300ms;
+}
+.topFooter .center .kharid h1:hover{
+    color:#1AC977;
+    text-decoration: underline;
+    transition: 300ms;
+}
+.topFooter .center .khadamat-moshtari p{
+    font-family: yekan;
+    color:#808080;
+}
+.topFooter .center .khadamat-moshtari h1{
+    font-family: yekan;
+    color:#808080;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 50px;
+    color: black;
+    transition: 300ms;
+}
+.topFooter .center .khadamat-moshtari h1:hover{
+    color:#1AC977;
+    text-decoration: underline;
+    transition: 300ms;
+}
+.topFooter .center .info-baniMode p{
+    font-family: yekan;
+    color:#808080;
+}
+.topFooter .center .info-baniMode h1{
+    font-family: yekan;
+    color:#808080;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 50px;
+    color: black;
+    transition: 300ms;
+}
+.topFooter .center .info-baniMode h1:hover{
+    color:#1AC977;
+    text-decoration: underline;
+    transition: 300ms;
+}
+.topFooter .center .info h1{
+    font-family: yekan;
+    font-size: 18px;
+    font-weight: 100;
+}
+.topFooter .center .info h2{
+    font-family: yekan;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 100;
+}
+.topFooter .center .info h3{
+    font-family: yekan;
+    font-size: 18px;
+    font-weight: 100; 
+    color: #808080;
+    margin-top: 30px;
+}
+.topFooter .center .info .tel-number{
+    font-family: yekan;
+    position: relative;
+    color: black;
+    right: 50px;
+    bottom: 22px;
+    font-weight: 600;
+}
+.topFooter .center .info h5{
+    font-family: yekan;
+    font-size: 18px;
+    font-weight: 100; 
+    color: #808080;
+    position: relative;
+    right: 140px;
+    top: -94px;
+}
+.topFooter .center .info .text-number{
+    font-family: yekan;
+    position: relative;
+    right: 200px;
+    bottom: 22px;
+    font-weight: 600;
+    top: -116px;
+    color: black;
+}
+.topFooter .center .info h4{
+    font-family: yekan;
+    font-size: 18px;
+    font-weight: 100; 
+    color: #808080;
+    position: relative;
+}
+.topFooter .center .info .email{
+    font-family: yekan;
+    color: black;
+    position: relative;
+    right: 50px;
+    bottom: 22px;
+    font-weight: 600;
+}
+
+.topFooter .center .info a:hover .tel-number{
+    color: #1AC977;
+}
+.topFooter .center .info a:hover .email{
+    color: #1AC977;
+}
+.topFooter .center .info a:hover .text-number{
+    color: #1AC977;
+}
+.topFooter .center .icons .banimode{
+
+    position: relative;
+    right: 50px;
+}
+.topFooter .center .icons .banimode img{
+    width: 200px;
+}
+.topFooter .center .icons .download{
+    width: 270px;
+    height: 40px;
+    border-radius: 15px;
+    position: relative;
+    top: 5px;
+    right: 10px;
+}
+.topFooter .center .icons .download a{
+    color: #1AC977;
+    border: 1px solid #1AC977;
+    border-radius: 15px;
+    width: 270px;
+    height: 40px;
+    font-family: yekan;
+    margin-right: 80px;
+    position:absolute;
+    top:0px;
+    left: 0px;
+}
+.topFooter .center .icons .download i{
+    color: #1AC977;
+    position: relative;
+    top: 10px;
+    left: -30px;
+}
+.topFooter .center .icons .download a h1{
+    color: #1AC977;
+    font-family: yekan;
+    font-weight: 100;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 70px;
+}
+.topFooter .center .icons .download a:hover h1{
+    color: #009657;
+}
+.topFooter .center .icons .download a:hover {
+    border: 1px solid #009657;
+}
+.topFooter .center .icons .download:hover i{
+    color:#009657;
+}
+.topFooter .center .icons .insta {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    position: relative;
+    top: 15px;
+}
+.topFooter .center .icons .insta i{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    right: 15px;
+    top: 15px;
+    transition: 300ms;
+}
+.topFooter .center .icons .insta i svg{
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+.topFooter .center .icons .tel {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    position: relative;
+    top: -35px;
+    right: 58px;
+}
+.topFooter .center .icons .tel i{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    right: 15px;
+    top: 15px;
+    transition: 300ms;
+}
+.topFooter .center .icons .tel i svg{
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+.topFooter .center .icons .aparat {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    position: relative;
+    top: -84px;
+    right: 115px;
+}
+.topFooter .center .icons .aparat a{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    right: 15px;
+    top: 15px;
+    transition: 300ms;
+}
+.topFooter .center .icons .aparat a svg{
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+.topFooter .center .icons .twitter {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    position: relative;
+    top: -134px;
+    right: 175px;
+}
+.topFooter .center .icons .twitter a{
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    right: 15px;
+    top: 15px;
+    transition: 300ms;
+}
+.topFooter .center .icons .twitter a svg{
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+.topFooter .center .icons .twitter a:hover{
+    border:1px solid #1AC977;
+    transition: 300ms;
+}
+.topFooter .center .icons .aparat a:hover{
+    border:1px solid #1AC977;
+    transition: 300ms;
+}
+.topFooter .center .icons .tel i:hover{
+    border:1px solid #1AC977;
+    transition: 300ms;
+}
+.topFooter .center .icons .insta i:hover{
+    border:1px solid #1AC977;
+    transition: 300ms;
+}
+.topFooter .center .icons .bani-mag{
+    position: relative;
+    top: -100px;
+}
+.topFooter .center .icons .tel i:hover svg g path{
+    fill: #009657;
+    transition: 300ms;
+}
+.topFooter .center .icons .insta:hover svg path{
+    fill: #009657;
+    transition: 300ms;
+}
+.topFooter .center .icons .aparat:hover svg {
+    fill: #009657;
+    transition: 300ms;
+}
+.topFooter .center .icons .twitter:hover svg path {
+    fill: #009657;
+    transition: 300ms;
+}
+
+

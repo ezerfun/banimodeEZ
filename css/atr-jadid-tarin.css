@@ -1,0 +1,117 @@
+.atr-jadid-tarin {
+  width: 100%;
+  position: relative;
+  height: 800px;
+  top: 200px;
+}
+.atr-jadid-tarin h1 {
+  font-family: yekan;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 100;
+}
+/*height 620 fasele 110*/
+.atr-jadid-tarin .center {
+  height: 630px;
+  width: calc(100% - 110px);
+  margin: 0 auto;
+
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide a img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: relative;
+  top: -90px;
+}
+.content1{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    top: 440px;
+
+}
+.content1 h1{
+    color: black;
+    font-family: yekan;
+    position: absolute;
+    top: -10px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.content1 .boff{
+    color: black;
+    font-family: yekan;
+    position: absolute;
+    left: 30px;
+    text-decoration: line-through;
+    color: #9F9F9F;
+}
+.content1 .aoff{
+    color: black;
+    font-family: yekan;
+    position: absolute;
+    left: 30px;
+    top: 80px;
+    color:#1AC776;
+}
+.content1 p{
+    color: black;
+    font-family: yekan;
+    position: absolute;
+    top: 80px;
+    color: #9F9F9F;
+}
+.content1 .meqdar{
+    font-family: yekan;
+    color: #9F9F9F;
+    position: absolute;
+    top: 120px;
+    right: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+}
+.content1 h1[id="dc"]{
+    color: black;
+    font-family: yekan;
+    position: absolute;
+    top: -10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.atr-more{
+  width: 100%;
+  height: 80px;
+}
+.atr-more .center1{
+  width: 300px;
+  height: 70px;
+  margin-right: 690px;
+  text-align: center;
+  border: #9F9F9F 1px solid ;
+  border-radius: 40px;
+}
+.atr-more a{
+  text-decoration: none;
+  color: #1AC776;
+}
+.center1:hover{
+  border:  1px solid #1AC776;
+}

@@ -1,0 +1,39 @@
+.news{
+    width: 100%;
+    height: 320px;
+
+}
+.news .center{
+    height: 320px;
+    width: calc(100% - 110px );
+    margin: 0 auto;
+
+}
+.swiper-news {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+p{
+    font-family: yekan;
+    font-size: 18px;
+}
+.swiper-slide:hover p{
+    color: #00BF6F;
+
+}

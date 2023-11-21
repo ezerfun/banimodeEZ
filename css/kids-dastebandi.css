@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.daste-bandi{
+    width: 100%;
+    height: 50px;
+}
+.daste-bandi h1{
+    font-family: yekan;
+    text-align: center;
+    font-weight: 100;
+}
+.daste-bandi .pics{
+    margin-top: 10px;
+    width: 100%;
+    height: 200px;
+}
+.daste-bandi .pics .center{
+    height: 200px;
+    width: calc(100% - 170px);
+    margin: 0 auto;
+    position: relative;
+}
+.daste-bandi .pics .center .pic1{
+
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+}
+.daste-bandi .pics .center .pic2{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 170px;
+}
+.daste-bandi .pics .center .pic3{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 340px;
+}
+.daste-bandi .pics .center .pic4{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 510px;
+}
+.daste-bandi .pics .center .pic5{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 680px;
+}
+.daste-bandi .pics .center .pic6{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 850px;
+}
+.daste-bandi .pics .center .pic7{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 1020px;
+}
+.daste-bandi .pics .center .pic8{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 1190px;
+}
+.daste-bandi .pics .center .pic9{
+    width: 135px;
+    height: 135px;
+    position: absolute;
+    top: 30px;
+    right: 1360px;
+}
+.daste-bandi .pics .center .pic1 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic2 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic3 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic4 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic5 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic6 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic7 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic8 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 150px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic9 a img{
+    box-sizing: border-box;
+    width: 125px;
+    height: 130px;
+    margin-top: 15px;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic1 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic2 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic3 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic4 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic5 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic6 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic7 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic8 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}
+.daste-bandi .pics .center .pic9 a img:hover{
+    scale: 1.01 1.01;
+    transition: 300ms;
+}

@@ -1,0 +1,47 @@
+.more{
+    height: 140px;
+    width: 100%;
+
+}
+.more .center{
+    height: inherit;
+    width: calc(100% - 188px );
+    margin: 0 auto;
+    position: relative;
+}
+
+.more .center .more_button{
+    width: 400px;
+    height: 70px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 550px;
+    top: 40px;
+    text-align: center;
+}
+
+.more .center .more_button a{
+    width: 400px;
+    height: 70px;
+    display: block;
+    text-decoration: unset;
+    color: #00bf6f;
+    text-align: center;
+    font-family: yekan;
+    margin-top:20px;
+    border: 2px gray solid;
+    line-height: 70px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 25px;
+    transition: 300ms;
+}
+.more .center .more_button a:hover{
+    border-color: #00bf6f;
+    transition: 300ms;
+}
+
+
+
+
+

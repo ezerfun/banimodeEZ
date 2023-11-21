@@ -1,0 +1,96 @@
+.khabarName{
+    width: 100%;
+    height: 380px;
+    position: relative;
+}
+.khabarName .center{
+    height: 280px;
+    margin: 0 auto;
+    width: calc(100% - 300px );
+    background-color: #F8F8F8;
+}
+.khabarName .center .email{
+    position: absolute;
+    width: 550px;
+    height: 80px;
+    top: 240px;
+    right: 460px;
+    border-radius: 30px;
+    background-color:#FFFFFF;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.khabarName .center .email input{
+    width: 450px;
+    height: 60px;
+    position: absolute;
+    top: 8px;
+    right: 40px;
+    background-color: #EFEFEF;
+    border: 1px solid #EFEFEF;
+    border-radius: 30px;
+}
+
+
+.khabarName .center .email input[type=email]::placeholder{
+    font-family: Yekan;
+    color: grey;
+    font-size: 16px;
+}
+.khabarName .center .send{
+    width: 240px;
+    height: 80px;
+    position: absolute;
+    top: 240px;
+    left: 460px;
+    background-color:#FFFFFF;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.khabarName .center .send .button{
+    background-color: #1AC977;
+    width: 150px;
+    height: 60px;
+    position: absolute;
+    top: 10px;
+    border-radius: 30px;
+    right: 20px;
+}
+.khabarName .center .send a{
+    font-family: yekan;
+    color:whitesmoke;
+    background-color:#1AC977;
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    font-size: 16px;
+}
+.khabarName .center .send i{
+    position: absolute;
+    color: whitesmoke;
+    top: 18px;
+    left: 15px;
+    font-size: 16px;
+}
+.khabarName .center h1{
+    font-family: yekan;
+    font-size: 30px;
+    font-weight: 100;
+    position: absolute;
+    top: 60px;
+    right: 650px;
+}
+.khabarName .center p{
+    font-family: yekan;
+    font-size: 20px;
+    font-weight: 100;
+    position: absolute;
+    top: 110px;
+    right: 440px;
+}
+.khabarName .center .send .button:hover{
+    background-color:#009657;
+}
+.khabarName .center .send .button:hover a{
+    background-color:#009657;
+}
