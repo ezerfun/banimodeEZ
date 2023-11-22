@@ -296,7 +296,7 @@
           </div>
           <div class="left">
             <!-- Swiper -->
-            <div class="swiper mySwiper">
+            <div class="swiper mySwiper-left">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <img src="./images/slider-1.webp" alt="" />
@@ -1078,6 +1078,10 @@
             nextEl: ".swiper-button-next",
             prevEl: ".swiper-button-prev",
           },
+          autoplay: {
+          delay:6000,
+          disableOnInteraction: false,
+        },
           pagination: {
             el: ".swiper-pagination",
           },
@@ -1095,6 +1099,24 @@
         prevEl: ".swiper-button-prev",
       },
     });
+  </script>
+  <script>
+          var swiper = new Swiper(".mySwiper-left", {
+        spaceBetween: 0,
+        centeredSlides: true,
+        autoplay: {
+          delay: 3000,
+          disableOnInteraction: false,
+        },
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
   </script>
   </body>
 </html>
